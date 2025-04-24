@@ -5,7 +5,7 @@
 🌱 Atualmente aprendendo desenvolvimento de jogos e back-end
 
 ## 🚀 Tecnologias que uso:
-## 🚀 Tecnologias que uso:
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-35%25-%2344cc11?style=for-the-badge&logo=python&logoColor=white" />
