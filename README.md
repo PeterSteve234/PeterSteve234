@@ -1,4 +1,22 @@
-## Hi there 👋
+# Olá! Eu sou o PeterSteve 👋
+
+🎓 Estudante de programação | 🔧 Criador de projetos com Python e Rust  
+💡 Apaixonado por tecnologia, criatividade e inovação  
+🌱 Atualmente aprendendo desenvolvimento de jogos e back-end
+
+## 🚀 Tecnologias que uso:
+- Python 🐍
+- HTML + CSS 🎨
+- JavaScript ⚙️
+- Rust ⚡
+
+## 📫 Me encontre:
+- [GitHub](https://github.com/PeterSteve234)
+- [Linkedin](https://www.linkedin.com/in/pedro-henrique-esteves-neto-5379b1258/)
+
+
+
+
 
 <!--
 **PeterSteve234/PeterSteve234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
