@@ -13,7 +13,10 @@
 - ChatGpt
 e muito mais em breve!
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterSteve234&layout=compact&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PeterSteve234&show_icons=true&theme=radical)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterSteve234&layout=compact&theme=radical)
+
 
 ## 📫 Me encontre:
 - [GitHub](https://github.com/PeterSteve234)
