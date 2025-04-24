@@ -15,8 +15,9 @@
 - [Linkedin](https://www.linkedin.com/in/pedro-henrique-esteves-neto-5379b1258/)
 
 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PeterSteve234&show_icons=true&theme=radical)
 
 <!--
 **PeterSteve234/PeterSteve234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
