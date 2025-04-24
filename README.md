@@ -11,9 +11,9 @@
 - Rust ⚡ (Em breve)
 - GitHub
 - ChatGpt
+e muito mais em breve!
 
-
- <p>![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterSteve234&layout=compact&theme=dark)</p> 
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterSteve234&layout=compact&theme=dark)
 
 ## 📫 Me encontre:
 - [GitHub](https://github.com/PeterSteve234)
