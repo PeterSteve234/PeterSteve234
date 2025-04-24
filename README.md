@@ -9,7 +9,8 @@
 - HTML + CSS 🎨 25%
 - JavaScript ⚙️ 20%
 - Rust ⚡ (Em breve)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterSteve234&layout=compact&theme=radical)
+- 
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterSteve234&layout=compact&theme=dark)
 
 ## 📫 Me encontre:
 - [GitHub](https://github.com/PeterSteve234)
