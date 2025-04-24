@@ -14,10 +14,17 @@
 - [GitHub](https://github.com/PeterSteve234)
 - [Linkedin](https://www.linkedin.com/in/pedro-henrique-esteves-neto-5379b1258/)
 <p align="center">
-  <strong><span style="font-size:20px"> 💻 Meu Portfólio </span></strong>
+  <strong><span style="font-size:20px"> 💻 Meu Portfólio <p>
+    que está aqui👇👇👇
+  </p> </span></strong>
 </p>
 
-🌍 Acesse meu site: [pedroesteves.netlify.app](https://pedroesteves.netlify.app)
+<p align="center">
+  <a href="https://pedroesteves.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Meu Site -pedroesteves.netlify.app-0d1117?style=for-the-badge&logo=google-chrome&logoColor=white&color=blue" />
+  </a>
+</p>
+
 
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
