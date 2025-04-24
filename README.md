@@ -15,7 +15,7 @@
 - [Linkedin](https://www.linkedin.com/in/pedro-henrique-esteves-neto-5379b1258/)
 <p align="center">
   <strong><span style="font-size:20px"> 💻 Meu Portfólio <p>
-    que está aqui👇👇👇
+                     
   </p> </span></strong>
 </p>
 
