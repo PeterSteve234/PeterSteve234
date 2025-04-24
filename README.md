@@ -5,10 +5,10 @@
 🌱 Atualmente aprendendo desenvolvimento de jogos e back-end
 
 ## 🚀 Tecnologias que uso:
-- Python 🐍
-- HTML + CSS 🎨
-- JavaScript ⚙️
-- Rust ⚡
+- Python 🐍 35%
+- HTML + CSS 🎨 25%
+- JavaScript ⚙️ 20%
+- Rust ⚡ (Em breve)
 
 ## 📫 Me encontre:
 - [GitHub](https://github.com/PeterSteve234)
