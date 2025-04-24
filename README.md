@@ -17,9 +17,7 @@
   <strong><span style="font-size:20px"> 💻 Meu Portfólio </span></strong>
 </p>
 
-<a href="https://pedroesteves.netlify.app" target="_blank">
-  <img src="https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif" width="200"/>
-</a>
+🌍 Acesse meu site: [pedroesteves.netlify.app](https://pedroesteves.netlify.app)
 
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
