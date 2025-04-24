@@ -10,21 +10,19 @@
 - JavaScript ⚙️ 20%
 - Rust ⚡ (Em breve)
 - GitHub
-- ChatGpt
+- ChatGPT
 e muito mais em breve!
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PeterSteve234&show_icons=true&theme=radical)
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterSteve234&layout=compact&theme=radical)
 
-
 ## 📫 Me encontre:
 - [GitHub](https://github.com/PeterSteve234)
 - [Linkedin](https://www.linkedin.com/in/pedro-henrique-esteves-neto-5379b1258/)
+
 <p align="center">
-  <strong><span style="font-size:20px"> 💻 Meu Portfólio <p>
-                     
-  </p> </span></strong>
+  <strong style="font-size:20px;">💻 Meu Portfólio</strong>
 </p>
 
 <p align="center">
@@ -33,14 +31,11 @@ e muito mais em breve!
   </a>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
 
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-
-
-
-
-<!--
+<!-- 
 **PeterSteve234/PeterSteve234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
