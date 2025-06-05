@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o PeterSteve234! 
 
-**🎓 Estudante de Programação | 🛠️ Criador do OctadactylSecure**  
-*"Transformando café em código seguro desde 2023"*
+**🎓 Estudante de Programação | 🛠️ Criador do OctadactylSecure (em andamento)**  
+*"Transformando café em código seguro desde 2024"*
 
 ---
 
