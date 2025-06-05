@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 **Minha Stack e Ferramentas que uso**  
+##  **Minha Stack e Ferramentas que uso**  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -17,13 +17,13 @@
 
 ---
 
-## 🔥 **Projeto Estrela**  
+##  **Projeto Estrela**  
 [![OctadactylSecure](https://img.shields.io/badge/🌟_OctadactylSecure-ANTIVÍRUS_OPEN_SOURCE-blue?style=for-the-badge)](https://github.com/PeterSteve234/OctadactylSecure)  
 *"Quando o Windows Defender não é o bastante... ✨"*
 
 ---
 
-## 📊 **GitHub Stats**  
+##  **GitHub Stats**  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PeterSteve234&show_icons=true&theme=dracula&hide_border=true" width="400"/>
@@ -32,7 +32,7 @@
 
 ---
 
-## 🌐 **Onde Me Encontrar**  
+##  **Onde Me Encontrar**  
 
 <p align="center">
   <a href="https://github.com/PeterSteve234">
