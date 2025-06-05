@@ -8,14 +8,14 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-35%25-%2344cc11?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML%20%2B%20CSS-25%25-%23f06529?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-20%25-%23f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Rust-%E2%80%9CEm%20Breve%E2%80%9D-%23000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/C#-35%25-%2344cc11?style=for-the-badge&logo=C#&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python%20%2B%20CSS-25%25-%23f06529?style=for-the-badge&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-20%25-%23f7df1e?style=for-the-badge&logo=C++&logoColor=black" />
   <img src="https://img.shields.io/badge/GitHub-%F0%9F%93%80-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/ChatGPT-%F0%9F%98%8A-009688?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
-
+[![Fork Me](https://img.shields.io/badge/Fork%20Me-%E2%9C%A8-lightgrey?style=for-the-badge)](https://github.com/petersteve234/phoenix-sec/fork)  
+h<meta http-equiv="refresh" content="0; url=https://github.com/petersteve234/phoenix-sec" />  
 <p align="center">
   <strong>e muito mais em breve!</strong>
 </p>
