@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/GitHub-%F0%9F%93%80-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/ChatGPT-%F0%9F%98%8A-009688?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
-[![Fork Me](https://img.shields.io/badge/Fork%20Me-%E2%9C%A8-lightgrey?style=for-the-badge)](https://github.com/petersteve234/phoenix-sec/fork)  
+[![Clique Aqui, To Open!](https://img.shields.io/badge/Fork%20Me-%E2%9C%A8-lightgrey?style=for-the-badge)](https://github.com/petersteve234/phoenix-sec/fork)  
 h<meta http-equiv="refresh" content="0; url=https://github.com/petersteve234/phoenix-sec" />  
 <p align="center">
   <strong>e muito mais em breve!</strong>
