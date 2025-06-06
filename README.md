@@ -35,21 +35,7 @@
 
 ---
 
-## 📊 Dashboard de Estatísticas
-<div align="center">
-  
-  ### 📈 Gráficos Principais
-  | Estatísticas | Linguagens | Atividade |
-  |--------------|------------|-----------|
-  | ![Estatísticas](https://github-readme-stats.vercel.app/api?username=PeterSteve234&show_icons=true&theme=radical) | ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterSteve234&layout=compact&theme=radical) | ![Atividade](https://github-readme-activity-graph.vercel.app/graph?username=PeterSteve234&theme=react-dark) |
-  
-  ### 🌟 Gráficos Especiais
-  ![Contribuições 3D](https://raw.githubusercontent.com/PeterSteve234/PeterSteve234/main/profile-3d-contrib/profile-night-rainbow.svg)
-  ![Streak](https://streak-stats.demolab.com/?user=PeterSteve234&theme=dark)
-  
-</div>
-
----
+<div align="center"> <img height="200" src="https://github-readme-stats.vercel.app/api?username=PeterSteve234&show_icons=true&theme=radical&include_all_commits=true" /> <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterSteve234&layout=compact&theme=radical" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=PeterSteve234&theme=react-dark" /> </div>
 
 ## 🌍 Onde Me Encontrar
 <div align="center">
