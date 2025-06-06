@@ -1,53 +1,77 @@
-👋 Olá, eu sou o PeterSteve234!
+ <!-- Cabeçalho Animado -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Olá,+eu+sou+o+PeterSteve234!;Estudante+de+Programação;Desenvolvedor+de+Segurança;Criador+do+OctadactylSecure" alt="Animação de Digitação" />
+</div>
 
-🎓 Estudante de Programação Etec | 🛠️ Criador do OctadactylSecure (em andamento)  
+🎓 Estudante de Programação | 🛠️ Criador do OctadactylSecure  
 *"Transformando café em código seguro desde 2024"*
 
 ---
 
-## 🛠️ Minha Stack e Ferramentas
+## 🌟 Perfil em Destaque
+<div align="center">
+  
+  ![Perfil 3D](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PeterSteve234&theme=github_dark)
+  
+</div>
+
+---
+
+## 🛠️ Tech Stack Completa
 
 <div align="center">
   
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
 ---
 
-## ⭐ Projeto Estrela
-
-**OctadactylSecure**  
-*"Quando o Windows Defender não é o bastante... ✨"*
-
-[![Repositório](https://github-readme-stats.vercel.app/api/pin/?username=PeterSteve234&repo=OctadactylSecure&theme=dark)](https://github.com/PeterSteve234/OctadactylSecure)
-
----
-
-## 📊 GitHub Stats
+## ⚡ Projeto Estrela
 
 <div align="center">
-
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=PeterSteve234&show_icons=true&theme=dark&hide_border=true)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterSteve234&layout=compact&theme=dark&hide_border=true)
-![Streak](https://streak-stats.demolab.com/?user=PeterSteve234&theme=dark&hide_border=true)
-
+  
+  [![OctadactylSecure](https://github-readme-stats.vercel.app/api/pin/?username=PeterSteve234&repo=OctadactylSecure&theme=dark&show_owner=true)](https://github.com/PeterSteve234/OctadactylSecure)
+  *"Quando o Windows Defender não é o bastante... ✨"*
+  
 </div>
 
 ---
 
-## 🌐 Onde Me Encontrar
+## 📊 Dashboard de Estatísticas
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://pedroesteves.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-esteves-neto-5379b1258/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+### 📅 Atividade Recente
+```mermaid
+gantt
+    title Linha do Tempo de Contribuições
+    dateFormat  YYYY-MM-DD
+    section Commits
+    Atividade recente :active, 2023-11-01, 30d
+📈 Gráficos Avançados
+<div align="center">
+Estatísticas	Linguagens	Atividade
+Estatísticas	Linguagens	Atividade
+Contribuições
+Heatmap
 
----
+</div>
+🌍 Onde Me Encontrar
+<div align="center">
+Website
+LinkedIn
+Gmail
+Twitter
 
-![GIF Programação](https://media.giphy.com/media/qgQgggAC3Pvf687qPC/giphy.gif)
+</div>
+🎮 Hobbies e Curiosidades
+<div align="center">
+Gaming
+Music
+Anime
 
-*"Debugging é como ser detetive em um crime onde você é o suspeito"*
+</div>
