@@ -1,6 +1,6 @@
  <!-- Cabeçalho Animado -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Olá,+eu+sou+o+PeterSteve234!;Estudante+de+Programação;Desenvolvedor+de+Segurança;Criador+do+OctadactylSecure" alt="Animação de Digitação" />
+
 </div>
 
 🎓 Estudante de Programação | 🛠️ Criador do OctadactylSecure  
