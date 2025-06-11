@@ -53,21 +53,7 @@
     href="https://github.com/ryo-ma/github-profile-trophy"
     title="repositório de troféus"
   >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=iuricode&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
-
----
-
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-
-<p align="center">
-  <img
+    [![Peterseteve234](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&layout=compact)](https://github.com/petersteve234/github-readme-stats)
     src="https://profile-counter.glitch.me/https://github.com/PeterSteve234"
     alt="Número de visitantes no perfil"
   />
