@@ -68,7 +68,7 @@
 
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/iuricode/count.svg"
+    src="https://profile-counter.glitch.me/https://github.com/PeterSteve234"
     alt="Número de visitantes no perfil"
   />
 </p>
