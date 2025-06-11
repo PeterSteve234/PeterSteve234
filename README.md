@@ -33,21 +33,6 @@
 
 ---
 
-## Gráfico de calor de contribuições 📅
-
-![Heatmap](https://activity-graph.herokuapp.com/graph?username=petersteve234&theme=react-dark&hide_border=true)
-
----
-
-## Estatísticas de programação ⏱️
-
-### Total de horas estimadas programando no GitHub  
-(Dados aproximados baseados em commits e contribuições públicas)
-
-[![WakaTime](https://wakatime.com/share/@petersteve234/your-dashboard.svg)](https://wakatime.com/@petersteve234)
-
----
-
 ## Projetos em destaque 🚀
 
 ### [OctadactylSecure](https://github.com/PeterSteve234/OctadactylSecure)  
