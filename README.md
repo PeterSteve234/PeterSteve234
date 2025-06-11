@@ -24,6 +24,4 @@
 
 ---
 
-<div align="center">
-  ![Snake Animation](https://github.com/PeterSteve234/PeterSteve234/blob/output/github-contribution-grid-snake.svg)
-</div>
+![Visitas](https://visitor-badge.laobi.website/badge?page_id=petersteve234.petersteve234)
