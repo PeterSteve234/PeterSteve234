@@ -40,7 +40,7 @@ Descrição: Um site moderno com animações e gráficos imersivos.
 
 ---
 
-## GIF mostrando criatividade
+
 
 ![Criatividade em ação](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
