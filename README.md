@@ -41,7 +41,6 @@ Dê uma olhada no repositório e fique à vontade para contribuir!
 
 ---
 
-## GIF mostrando criatividade
 
 ![Criatividade em ação](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
