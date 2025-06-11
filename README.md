@@ -22,25 +22,41 @@
 
 ---
 
-## Minhas Estatísticas 📊
+## Minhas Estatísticas GitHub 📊
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=petersteve234&show_icons=true&theme=radical)
 
----
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=petersteve234&layout=compact&theme=radical)
 
-## Projetos Recentes 🚀
-
-### Projeto 1: Meu App Criativo  
-Descrição: Um app que usa criatividade para resolver problemas do dia a dia.  
-[Repositório](https://github.com/petersteve234/projeto1) | [Demo](https://projeto1.demo.com)
-
-### Projeto 2: Site Interativo  
-Descrição: Um site moderno com animações e gráficos imersivos.  
-[Repositório](https://github.com/petersteve234/projeto2) | [Demo](https://projeto2.demo.com)
+![Contribuições](https://github.com/petersteve234.png?size=100)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=petersteve234&theme=radical)
 
 ---
 
+## Gráfico de calor de contribuições 📅
 
+![Heatmap](https://activity-graph.herokuapp.com/graph?username=petersteve234&theme=react-dark&hide_border=true)
+
+---
+
+## Estatísticas de programação ⏱️
+
+### Total de horas estimadas programando no GitHub  
+(Dados aproximados baseados em commits e contribuições públicas)
+
+[![WakaTime](https://wakatime.com/share/@petersteve234/your-dashboard.svg)](https://wakatime.com/@petersteve234)
+
+---
+
+## Projetos em destaque 🚀
+
+### [OctadactylSecure](https://github.com/PeterSteve234/OctadactylSecure)  
+Descrição: Projeto focado em segurança digital e proteção de dados.  
+Dê uma olhada no repositório e fique à vontade para contribuir!
+
+---
+
+## GIF mostrando criatividade
 
 ![Criatividade em ação](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
@@ -54,18 +70,6 @@ Descrição: Um site moderno com animações e gráficos imersivos.
 ---
 
 > "Criatividade é a inteligência se divertindo." — Albert Einstein
-
----
-
-## Quer saber mais?
-
-Sinta-se à vontade para visitar meus repositórios, fazer perguntas ou conectar comigo. Estou sempre aberto a trocar ideias, colaborar em projetos e aprender com a comunidade!
-
----
-
-## Como me encontrar nas redes sociais
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-esteves-neto-5379b1258/)
 
 ---
 
