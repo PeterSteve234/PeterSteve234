@@ -9,10 +9,8 @@
 ## Sobre mim
 
 - 👨‍💻 Nome de usuário: `petersteve234`
-- 🎨 Criatividade como diferencial
-- 🚀 Apaixonado por programação, design e inovação
-- 📚 Sempre aprendendo e buscando novos desafios
-- 🎯 Objetivo: criar projetos que impactem e inspirem
+- 🎨 Creativy Developer
+- 🎯 Make a project for you
 
 ---
 
