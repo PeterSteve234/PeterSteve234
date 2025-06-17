@@ -37,8 +37,8 @@
 ## Projetos em destaque 🚀
 
 ### [OctadactylSecure](https://github.com/PeterSteve234/OctadactylSecure)  
-Descrição: Projeto focado em segurança digital e proteção de dados.  
-Dê uma olhada no repositório e fique à vontade para contribuir!
+![image](https://github.com/user-attachments/assets/79548931-5d20-4e57-aabc-e7672b9e6b93)
+
 
 ---
 
