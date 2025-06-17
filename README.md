@@ -43,7 +43,7 @@
 ---
 
 
-![Criatividade em ação](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+![image](https://github.com/user-attachments/assets/c13c2773-4e55-42fd-b5c0-794f0cddbabc)
 ![image](https://github.com/user-attachments/assets/fbc345dc-7bf5-4b1f-aa58-2b3f5ae06de8)
 
 ---
