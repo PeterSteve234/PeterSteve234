@@ -1,4 +1,5 @@
-# Olá, eu sou o Peter Steve! 👋
+![image](https://github.com/user-attachments/assets/8bfb4902-9669-4fcc-b8fe-db004cc72022)
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&background=00000000&width=400&lines=Desenvolvedor+Criativo;Apaixonado+por+Tecnologia;Sempre+aprendendo)](https://git.io/typing-svg)
 
