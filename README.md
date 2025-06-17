@@ -30,7 +30,7 @@
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=petersteve234&layout=compact&theme=radical)
 
 ![Contribuições](https://github.com/petersteve234.png?size=100)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=petersteve234&theme=radical)
+
 
 ---
 
@@ -44,6 +44,7 @@
 
 
 ![Criatividade em ação](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+![image](https://github.com/user-attachments/assets/fbc345dc-7bf5-4b1f-aa58-2b3f5ae06de8)
 
 ---
 
