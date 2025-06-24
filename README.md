@@ -7,7 +7,8 @@
 ---
 
 ## Sobre mim
-![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/PeterSteve234)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=PeterSteve234.PeterSteve234)
+
 
 
 - 👨‍💻 Nome de usuário: `petersteve234`
