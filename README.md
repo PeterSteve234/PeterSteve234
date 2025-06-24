@@ -7,6 +7,7 @@
 ---
 
 ## Sobre mim
+![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SEU_USUARIO/SEU_REPOSITORIO)
 
 - 👨‍💻 Nome de usuário: `petersteve234`
 - 🎨 Creativy Developer
