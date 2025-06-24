@@ -7,8 +7,8 @@
 ---
 
 ## Sobre mim
-![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/PeterSteve234/PeterSteve234)
-4)
+![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/PeterSteve234)
+
 
 - 👨‍💻 Nome de usuário: `petersteve234`
 - 🎨 Creativy Developer
