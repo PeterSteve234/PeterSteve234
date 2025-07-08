@@ -46,7 +46,6 @@
 
 
 
-![image](https://github.com/user-attachments/assets/fbc345dc-7bf5-4b1f-aa58-2b3f5ae06de8)
 
 ---
 
