@@ -15,22 +15,6 @@ Here you will find my projects, contributions, and journey in the world of code.
 
 ---
 
-## 📅 Contribution Calendar
-
-![GitHub Contribution Calendar](https://github.com/PeterSteve234.png?tab=overview&from=2023-07-01&to=2024-07-01)
-
----
-
-## 📈 Additional Activity Stats
-
-### Weekly Commit Activity
-![Weekly Commit Activity](https://github-readme-stats.vercel.app/api/wakatime?username=PeterSteve234&theme=dark)
-
-### Contribution Breakdown
-![Contribution Types](https://github-readme-stats.vercel.app/api?username=PeterSteve234&show_icons=true&count_private=true&theme=dark&hide_title=true&include_all_commits=true&custom_title=Contribution%20Breakdown)
-
----
-
 ## 🛠️ Languages I Use
 
 <div align="center">
