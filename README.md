@@ -49,7 +49,7 @@ My main areas of study and tools of trade include:
 ### Connect and Collaborate! 🤝
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZG80NHhjYzFqejBoOHJzMXhkMTR3eWhtdm0xMG5xdDZpa3Y3djV5ZSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/xQ7NKUKR2qg0jQ5uwC/giphy.gif" alt="Link to connect" width="100" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZG80NHhjYzFqejBoOHJzMXhkMTR3eWhtdm0xMG5xdDZpa3Y3djV5ZSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/xQ7NKUKR2qg0jQ5uwC/giphy.gif" height="900" alt="Link to connect" width="100" />
 </p>
 
 -   **🤔 Looking for help:** I'm actively seeking guidance and collaborators for my projects, especially the Antivirus. If you have experience in security or C++/C# performance, I'd love to chat!
