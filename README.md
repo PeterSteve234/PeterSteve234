@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PeterSteve234&color=blueviolet" alt="Profile Views Counter" />
 </p>
-
 <h1 align="center">Hi there, I'm PeterSteve234! 👋</h1>
 
 <p align="center">
