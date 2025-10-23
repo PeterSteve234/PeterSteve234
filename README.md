@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PeterSteve234&color=blueviolet" alt="Profile Views Counter" />
+  <img src="![Descrição do GIF](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MXNiejdkNHJrcTk0cmV2amgyeWc1ZmFkbTZrMm1pdG44OTRhaTF4aSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/26DMVt0JsXL8WrQ0E/giphy.gif)
+" alt="Profile Views Counter" />
 </p>
 <h1 align="center">Hi there, I'm PeterSteve234! 👋</h1>
 
