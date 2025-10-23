@@ -54,9 +54,6 @@ Minhas principais áreas de estudo e ferramentas de trabalho incluem:
 
 ---
 
-<p align="center">
-  <h2>🐍 Minha Cobrinha Devoradora de Commits 🐍</h2>
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" 
