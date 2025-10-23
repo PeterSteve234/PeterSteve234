@@ -74,9 +74,6 @@ My main areas of study and tools of trade include:
 
 ---
 
-### GitHub Stats 📊
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PeterSteve234&show_icons=true&theme=dark&hide_title=true&locale=en" alt="PeterSteve234 GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PeterSteve234&theme=dark&locale=en" alt="PeterSteve234 GitHub Streak" />
-</p>
+
+
