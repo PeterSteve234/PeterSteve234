@@ -59,9 +59,6 @@ My main areas of study and tools of trade include:
 
 ---
 
-<p align="center">
-  <h2>🐍 My Commit-Eating Snake 🐍</h2>
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" 
