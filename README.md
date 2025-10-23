@@ -1,30 +1,32 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PeterSteve234/PeterSteve234/main/assets/welcome_header.gif" alt="Olá, sou PeterSteve234 - Bem-vindo(a)!" width="auto" height="150" />
+  <img src="https://media.giphy.com/media/1E6PuJdPYLr4otkykK/giphy.gif" alt="Hi, I'm PeterSteve234 - Welcome!" width="auto" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PeterSteve234&color=blueviolet" alt="Contador de Visitas" />
+  <img src="https://komarev.com/ghpvc/?username=PeterSteve234&color=blueviolet" alt="Profile Views Counter" />
 </p>
 
-<h1 align="center">Olá, eu sou PeterSteve234! 👋</h1>
+<h1 align="center">Hi there, I'm PeterSteve234! 👋</h1>
 
 <p align="center">
-  Bem-vindo ao meu espaço! Aqui você encontrará paixão por segurança, código limpo e jogos épicos.
+  Welcome to my space! Here you will find my passion for security, clean code, and epic games.
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/USV0Ezp4S3D8O4nQ0x/giphy.gif" alt="Programmer/Hacker working on computer" width="200" />
+  <img src="https://media.giphy.com/media/jpisvT6H4sB2k3bX3j/giphy.gif" alt="Programmer working on computer 8-bit" width="200" />
 </p>
 
 ---
 
-### Projeto em Destaque 🛡️ - Antivírus Pessoal
+---
 
-Atualmente, meu foco principal é desenvolver meu **Antivírus Pessoal**. É um projeto desafiador que planejo levar para produção!
+### Featured Project 🛡️ - Personal Antivirus
 
-### Tecnologias e Estudos 💻
+My current main focus is developing my **Personal Antivirus**. It's a challenging project that I plan to take to production someday!
 
-Minhas principais áreas de estudo e ferramentas de trabalho incluem:
+### Technologies and Learning 💻
+
+My main areas of study and tools of trade include:
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -36,24 +38,28 @@ Minhas principais áreas de estudo e ferramentas de trabalho incluem:
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
--   **🔭 Focado em:** Desenvolvimento de sistemas de segurança e aplicações robustas.
--   **🌱 Atualmente aprendendo:** Arquitetura de aplicações com **ASP.NET MVC** e otimização de código de baixo nível em **C++**.
--   **💡 Interesse em:** Aplicações de **Python** para análise de dados e automação de segurança.
+-   **🔭 Focusing on:** Developing security systems and robust applications.
+-   **🌱 Currently learning:** Application architecture with **ASP.NET MVC** and low-level code optimization in **C++**.
+-   **💡 Interested in:** **Python** applications for data analysis and security automation.
 
 ---
 
-### Conecte-se e Colabore! 
+### Connect and Collaborate! 🤝
 
 <p align="center">
   <img src="https://media.giphy.com/media/QuL8xT0cKz186wDq5e/giphy.gif" alt="Link to connect" width="100" />
 </p>
 
--   ** Preciso de ajuda:** Estou ativamente procurando orientação e colaboradores para meus projetos, especialmente o Antivírus. Se tiver experiência em segurança ou performance em C++/C#, adoraria conversar!
--   ** Pergunte-me sobre:** ASP.NET, lógica de programação em C#, e qualquer coisa relacionada a jogos e animes!
--   **⚡ Hobbies:** Amo jogos, animes e estou sempre buscando um bom desafio de codificação.
+-   **🤔 Looking for help:** I'm actively seeking guidance and collaborators for my projects, especially the Antivirus. If you have experience in security or C++/C# performance, I'd love to chat!
+-   **💬 Ask me about:** ASP.NET, C# programming logic, and anything related to games and anime!
+-   **⚡ Hobbies:** I love gaming, anime, and I'm always up for a good coding challenge.
+-   **😄 Pronouns:** he/him
 
 ---
 
+<p align="center">
+  <h2>🐍 My Commit-Eating Snake 🐍</h2>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" 
@@ -66,9 +72,9 @@ Minhas principais áreas de estudo e ferramentas de trabalho incluem:
 
 ---
 
-### Status do GitHub 
+### GitHub Stats 📊
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PeterSteve234&show_icons=true&theme=dark&hide_title=true" alt="PeterSteve234 GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PeterSteve234&theme=dark" alt="PeterSteve234 GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PeterSteve234&show_icons=true&theme=dark&hide_title=true&locale=en" alt="PeterSteve234 GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PeterSteve234&theme=dark&locale=en" alt="PeterSteve234 GitHub Streak" />
 </p>
