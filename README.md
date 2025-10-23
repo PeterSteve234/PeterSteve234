@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm9tM3Rpb3RwZHRiYzVhNDIxcmZzbWZqbDRpaTg5M3l6cmdxdzFxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1yld7nW3oQ2IyRubUm/giphy.gif" alt="Pixel Art Astronauta" width="200" />
+  <img src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm9tM3Rpb3RwZHRiYzVhNDIxcmZzbWZqbDRpaTg5M3l6cmdxdzFxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1yld7nW3oQ2IyRubUm/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MXNiejdkNHJrcTk0cmV2amgyeWc1ZmFkbTZrMm1pdG44OTRhaTF4aSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/26DMVt0JsXL8WrQ0E/giphy.gif)" alt="Pixel Art" width="200" />
 </p>
 
 
