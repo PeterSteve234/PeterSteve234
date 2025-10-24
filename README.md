@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/1E6PuJdPYLr4otkykK/giphy.gif" alt="Hi, I'm PeterSteve234 - Welcome!" width="auto" height="900" />
+  <img src="https://media.giphy.com/media/1E6PuJdPYLr4otkykK/giphy.gif" alt="Hi, I'm PeterSteve234 - Welcome!" width="auto" height="650" />
 </p>
 
 <p align="center">
